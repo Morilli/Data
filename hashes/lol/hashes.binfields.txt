@@ -779,6 +779,7 @@ d9fb13de CameraMask
 c32b088a CamoRingEffect
 8b4aef98 CamoRingEffectOther
 a9ef3654 Camp
+5a4ef4e7 CampIdentifier
 91c65290 CampIndex
 a0e8bf2a CampLevel
 f135454f CampName
@@ -2537,6 +2538,7 @@ ccfa8ab2 ImageOverride
 93909e07 InGameReportAndMuteModal
 2a2265d5 InQueueMusicState
 d0266d4b InRangeOfTower
+49d8f2c4 InWorldUi
 98059c83 InactiveBodyKey
 0b717735 InactiveDefault
 bc6e5ae5 InactiveFrame
@@ -2763,6 +2765,7 @@ be39c245 ItemName
 2d18091e ItemRoleNameTra
 a48389eb ItemRows
 0f087db8 ItemSceneTemplate
+c3002c22 ItemSectionPadding
 c78a7297 ItemSets
 aa352f81 ItemSetsComboBoxDefinition
 e010b82a ItemSetsHeaderRegion
@@ -2831,6 +2834,7 @@ fb8dc969 KeyFrame
 3cc014cd KeyFrameFloatmap
 a2e4c271 KeySequence
 c68d40a4 KeyType
+a882cddf KeybindingsInputPorting
 82d6dcb0 Keybinds
 31d46b76 KeyedLingerAcceleration
 4dbd1600 KeyedLingerDrag
@@ -3010,6 +3014,7 @@ bd62ded9 LightingOverride
 eb079194 LimitedTournamentPause
 6af0a9f6 LineColor
 53ca5f65 LineHeightRef
+c1d0e91a LineHeightScale
 53e09c75 LineMissileDelayDestroyAtEndSeconds
 db386b37 LineMissileTimePulseBetweenCollisionSpellHits
 69a31b79 LinearOverlays
@@ -4383,6 +4388,7 @@ ded25f4d RankPips
 9ea4e8e0 RankText
 f768ea78 RankTextLine2
 526e6e0d RankToFormationMap
+99c2bfa6 Ranked
 5f4b2951 RankedBackgroundTexture
 628e91bc RankedCrestBase
 89aa9aac RankedFrames
@@ -5134,6 +5140,7 @@ d4e12e5d SourceFxKey
 177de9ee SourceIcons
 1bcac48f SourceObject
 d1b791ba SourcePSDFilename
+7974836b SourcePosition
 a19b2e69 SourceResolutionHeight
 f6647cd6 SourceResolutionWidth
 462ba792 SourceResolver
@@ -5161,6 +5168,7 @@ b1e8a18c SpawnCountOvertime
 80162b77 SpawnIntervalSecs
 713c87ef SpawnLocation
 3bf0b4ed SpawnShape
+31af8e97 SpawnableUnits
 e82b9b56 SpawnerCharacter
 77835d07 SpawningText
 74de708f SpeakerIcon
@@ -5448,6 +5456,7 @@ e8dcc7f6 SummonerSpells
 e04e3f61 Sun
 4620fe14 SunIntensityScale
 d8851203 SunRadiusForShadows
+08a3d83e Superward
 692cc433 SuppressVisibilityChanges
 087253d7 Suppressed
 8bddc3a9 SuppressionIcon
@@ -6267,6 +6276,7 @@ fe0887d7 UseDefaultPerksOnError
 668adc6f UseGDSCVars
 23eeffe4 UseGameObjectIDsInLUA
 5826f907 UseHeightScale
+faaeb1b6 UseHierarchicalLayering
 e3fc5b99 UseKeyedLingerAcceleration
 37cc678f UseKeyedLingerDrag
 9bc7c386 UseKeyedLingerVelocity
@@ -6284,6 +6294,7 @@ de5b1cd9 UseLingerRotation
 5304c905 UseMaterialsForLegacyMaps
 6341d93b UseMinimapScale
 f1517d16 UseNativeJungleBrain
+1f64500a UseNavGridWasd
 390eecf7 UseNewAssistBBEvent
 f979f06d UseNewBountyTech
 fa56622f UseNewFireBBEvents
@@ -6395,6 +6406,7 @@ cbdc1bf6 ViewPanelScene
 8825ec03 VignetteTitle
 fb688f7b VignetteTitleTraKey
 350f6760 VisFlags
+7f37f5e5 Visibility
 44596cb6 VisibilityAnyToAny
 5150a6a1 VisibilityController
 97abeaff VisibilityDriver

@@ -833,6 +833,7 @@ f7efc2c3 EnableLookAtEventDataInstance
 039f4e7c EncounterUITunables
 63326f99 EndGameBlock
 7cfb6e78 EndGameForLevelBlock
+537385f5 EndGameWithIgnbTransgressionCheat
 9011876f EndOfGameCeremonyBehavior
 e7a8a5a4 EndOfGameViewController
 26557b0a EnemyRespawnTimersViewController
@@ -1228,6 +1229,7 @@ ded67873 HeroFloatingInfoResistBorderData
 d6a5e331 HeroFloatingInfoResistData
 fb821d03 HeroStatData
 01c51279 HeroStatsDefinition
+a975a9cf HideUiTimerCheat
 9e7b8301 HighlighterViewController
 8478a093 HomeViewController
 5a4abe00 HomeViewPromoBanner
@@ -2100,6 +2102,7 @@ b13284de NavHeaderViewController
 7a2bf6d5 NetworkingGeComponentDef
 1ced7194 NeutralCampGeComponent
 9597a7ab NeutralCampGeComponentDef
+3f04641e NeutralCampIdentifier
 fe7449a3 NeutralMinionCamp
 95fd84e9 NeutralMinionCampClearedLogic
 acb408c2 NeutralMinionCampCommon
@@ -2273,6 +2276,7 @@ dd5707f9 PatchingRootScene
 e443fb30 PathingAngleParametricUpdater
 1f728d34 PauseCheat
 e0e70cfc PauseDialogViewController
+5a43dcb1 PauseTimerCheat
 6884e28b Pawn
 9e5aed77 PerLocaleTooltipAdjustments
 ea2ab5ca PercentageOfBuffNameElapsed
@@ -2478,6 +2482,7 @@ ef3a0f33 ResourceResolver
 0c5bb730 ResourceResolverInstance
 c9fe2fdf RespawnPointData
 4cb037a7 RespawnPointDataList
+a67da76a ResumeTimerCheat
 a3d2b899 RetiredStatStoneData
 836354ec ReturnChildrenOnMovementCompleteSpec
 d45fa322 ReturnToCaster
@@ -2612,8 +2617,10 @@ f9caf4e5 SetInvulnerableBlock
 35b54ed0 SetModePreloadFlags
 3e9d7b55 SetRespawnTimerCheat
 80f1cd62 SetRespawnTimerCheatInstance
+dbe7562e SetSelfAfkCheat
 fd6c74ef SetTableValueBlock
 6a61d4af SetTargetableBlock
+0f3f357f SetTimerCheat
 5261adb9 SetVarInPtp
 bc67870e SetVarInTableBlock
 00f59899 SetVarInTableBlockInstance
@@ -2640,6 +2647,7 @@ df795218 ShopGeComponent
 8fd42905 ShowMissileHitboxCheat
 947b858f ShowObjectsCheat
 f4dc8ec5 ShowServerMissilesCheat
+570328ce ShowUiTimerCheat
 e9fb4d18 SiblingStatCoefficientBySubPart
 0f535ab5 SimpleItemSlots
 312aaf93 SineMaterialDriver
@@ -2755,6 +2763,8 @@ a3bd0d60 SplineInfo
 0064dcde SponsoredBanner
 e5bbe067 SpringPhysicsEventData
 cc9e24e1 SpringPhysicsRigPoseModifierData
+66969f1a StartIgnbSurrenderCheat
+11267c43 StartTimerCheat
 5815b0a9 StatByCoefficientCalculationPart
 9b423a76 StatByCoefficientCalculationPartInstance
 5f5c70a4 StatByNamedDataValueCalculationPart
@@ -3031,6 +3041,7 @@ ac9d3cf9 TempTable
 8586b1fe TempTable3
 63137212 TempTable3Table
 f5676233 TerminatePath
+bfe8a95c TerminateTimerCheat
 7d6afbc5 TerrainLocation
 350f16ae TerrainType
 28930c51 TestMap
@@ -3359,6 +3370,7 @@ df6a8659 ToggleInvulnerableCheat
 b5bd148c ToggleNetworkCheat
 a7fab94b TogglePlantFastRespawnCheat
 b3dba2b8 TogglePlantFastRespawnCheatInstance
+6d7df79c TogglePrintAfkTimeCheat
 b5b0ef71 ToggleRegenCheat
 0076300e ToggleRegenCheatInstance
 a6b5ba1b ToggleTeamCheat
